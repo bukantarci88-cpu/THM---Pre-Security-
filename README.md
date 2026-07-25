@@ -1,129 +1,64 @@
-# TryHackMe Pre Security Notes – Part 1: Introduction to Cyber Security
+# TryHackMe Pre Security Path
 
-## 📌 Overview
+This repository documents my learning journey through the TryHackMe Pre Security Path, building the foundational knowledge required for a career in cybersecurity.
 
-This repository contains my notes and key takeaways from the **TryHackMe Pre Security Learning Path – Part 1: Introduction to Cyber Security**.
+The path focuses on understanding how modern technology works, how systems communicate, how software is developed, and how security professionals protect organizations from cyber threats.
 
-The goal of this repository is to document my cybersecurity learning journey, understand fundamental security concepts, and build a strong foundation for a career in cybersecurity.
+## Topics Covered
 
----
+### Introduction to Cyber Security
+- Offensive vs Defensive Security
+- Cybersecurity roles and career paths
+- Security mindset and industry fundamentals
 
-## 📚 Topics Covered
+### Computer Fundamentals
+- Computer hardware components
+- Data representation and storage
+- Cloud computing fundamentals
+- How modern systems operate
 
-## 1. Offensive Security
+### Operating Systems Basics
+- Windows and Linux fundamentals
+- Graphical User Interface (GUI)
+- Command Line Interface (CLI)
+- Basic system administration concepts
 
-### What is Offensive Security?
-- Introduction to offensive security concepts
-- Understanding the role of ethical hackers
-- Identifying and exploiting security weaknesses
-- Importance of penetration testing in improving security
+### Software Basics
+- How applications process data
+- Programming fundamentals
+- Introduction to Python
+- JavaScript fundamentals
+- SQL concepts
 
-### Core Offensive Security Terms
-- Vulnerabilities
-- Exploits
-- Payloads
-- Attack Surface
-- Penetration Testing
-- Red Team Operations
+### Network Fundamentals
+- Network communication principles
+- IP addressing and protocols
+- Network infrastructure basics
+- Common networking weaknesses
 
-### A Valuable Target
-- Understanding why organizations become targets
-- Identifying valuable assets
-- Common attack vectors used by threat actors
+### How The Web Works
+- Web architecture fundamentals
+- HTTP/HTTPS concepts
+- Client-server communication
+- Web security foundations
 
----
+### Attacks and Defenses
+- Attacker methodologies
+- Defensive security concepts
+- Data protection techniques
+- Real-world attack and defense scenarios
 
-## 2. Defensive Security
+## Skills Developed
 
-### Introduction to Defensive Security
-- Understanding the role of defenders
-- Protecting systems, networks, and data
-- Preventing, detecting, and responding to cyber threats
+- Cybersecurity Fundamentals
+- Computer Systems Knowledge
+- Windows & Linux Basics
+- Networking Fundamentals
+- Web Technology Fundamentals
+- Security Concepts
+- Offensive Security Awareness
+- Defensive Security Principles
 
-### Exploring the SOC (Security Operations Center)
-- What is a SOC?
-- Role of SOC analysts
-- Security monitoring and alert investigation
-- SIEM tools and security operations processes
+## Goal
 
-### Key Defender Principles
-- Defense in Depth
-- Least Privilege
-- Continuous Monitoring
-- Threat Detection and Response
-- Security Awareness
-
-### Key Terminology
-- Threats
-- Vulnerabilities
-- Risks
-- Indicators of Compromise (IoCs)
-- Security Controls
-- Incident Response
-
----
-
-## 3. Digital Forensics
-
-### Introduction to Digital Forensics
-- Collecting and analyzing digital evidence
-- Investigating security incidents
-- Understanding forensic investigation processes
-- Importance of evidence preservation
-
----
-
-## 4. Incident Response
-
-### Introduction to Incident Response
-- Identifying and handling security incidents
-- Incident response lifecycle
-- Detection, containment, eradication, and recovery phases
-- Role of security teams during incidents
-
----
-
-## 5. Cybersecurity Careers
-
-### Potential Career Opportunities
-- Security Operations Center (SOC) Analyst
-- Penetration Tester
-- Digital Forensics Analyst
-- Incident Responder
-- Security Engineer
-- Threat Intelligence Analyst
-- Security Consultant
-
----
-
-## 🎯 Learning Objectives
-
-After completing this module, I learned:
-
-- The difference between offensive and defensive security
-- How attackers identify and exploit vulnerabilities
-- How defenders detect and respond to threats
-- The role of a Security Operations Center (SOC)
-- The basics of digital forensics and incident response
-- Different cybersecurity career paths
-
----
-
-## 🛠️ Learning Platform
-
-- TryHackMe – Pre Security Path
-- Introduction to Cyber Security Module
-
----
-
-## 👨‍💻 About This Repository
-
-This repository is part of my continuous cybersecurity learning journey.  
-It contains notes, summaries, and knowledge gained through hands-on labs, cybersecurity training platforms, and practical exercises.
-
----
-
-## ⚠️ Disclaimer
-
-These notes are created for educational purposes only.  
-They represent my personal understanding of cybersecurity concepts covered during my learning process.
+Build a strong technical foundation for progressing into cybersecurity roles such as Security Analyst, SOC Analyst, Penetration Tester, and Security Engineer.
